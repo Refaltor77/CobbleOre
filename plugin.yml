@@ -1,0 +1,5 @@
+name: CobbleOre
+version: 1.0.0
+main: CobbleOre\refaltor\Register
+api: 3.0.0
+author: refaltor

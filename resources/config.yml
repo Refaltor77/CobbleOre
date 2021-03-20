@@ -1,0 +1,8 @@
+---
+chance: 20 # chance 1 / 20
+
+# id:meta:count:customName
+drops:
+  - "388:0:1:wow"
+  - "4:0:2:wtf"
+...
